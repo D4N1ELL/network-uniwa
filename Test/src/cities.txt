@@ -1,0 +1,10 @@
+1#Chisinau#Chisinaul#Chisinaului#Chisinau#Chisinaule#masculine#Chisinau#Chişinău
+2#Tiraspol#Tiraspolul#Tiraspolului#Tiraspol#Tiraspolule#masculine#Tiraspol#Stînga Nistrului
+3#Bălţi#Bălţiul#Bălţiului#Bălţi#Bălţiule#masculine#Bălţi#Bălţi
+4#Bender#Benderul#Benderului#Bender#Benderule#masculine#Bender#Bender
+5#Rîbniţa#Rîbniţa#Rîbniţei#Rîbniţa#Rîbniţo#feminine#Rîbniţa#Stînga Nistrului
+6#Ungheni#Ungheniul#Ungheniului#Ungheni#Ungheniule#masculine#Ungheni#Ungheni
+7#Cahul#Cahulul#Cahulului#Cahul#Cahulule#masculine#Cahul#Cahul
+8#Dubăsari#Dubăsariul#Dubăsariului#Dubăsari#Dubăsariule#masculine#Dubăsari#Stînga Nistrului
+9#Soroca#Soroca#Sorocei#Soroca#Soroco#feminine#Soroca#Soroca
+10#Orhei#Orheiul#Orheiului#Orhei#Orheiule#masculine#Orhei#Orhei

@@ -1,0 +1,3 @@
+1#Chișinău#Chișinău#Chișinăului#Chișinăului#Chișinău#Chișinău#Chișinău#neuter#Chisinau#Chisinau_Municipality
+2#Bălți#Bălți#Bălțiului#Bălțiului#neuter#Balti#District_Bălți
+3#Cahul#Cahul#Cahului#Cahului#neuter#Cahul#District_Cahul

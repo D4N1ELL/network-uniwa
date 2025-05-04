@@ -1,0 +1,100 @@
+Universitatea de Stat din Moldova#Universitatea de Stat din Moldova#Universității de Stat din Moldova#Universității de Stat din Moldova#Universitateo de Stat din Moldova#feminin#1#Universities
+Universitatea Tehnică a Moldovei#Universitatea Tehnică a Moldovei#Universității Tehnice a Moldovei#Universității Tehnice a Moldovei#Universitateo Tehnică a Moldovei#masculin#1#Universities
+Academia de Studii Economice din Moldova#Academia de Studii Economice din Moldova#Academiei de Studii Economice din Moldova#Academiei de Studii Economice din Moldova#Academieo de Studii Economice din Moldova#masculin#1#Universities
+Universitatea de Medicină și Farmacie „Nicolae Testemițanu”#Universitatea de Medicină și Farmacie „Nicolae Testemițanu”#Universității de Medicină și Farmacie „Nicolae Testemițanu”#Universității de Medicină și Farmacie „Nicolae Testemițanu”#Universitateo de Medicină și Farmacie „Nicolae Testemițanu”#masculin#1#Universities
+Universitatea Pedagogică de Stat „Ion Creangă”#Universitatea Pedagogică de Stat „Ion Creangă”#Universității Pedagogice de Stat „Ion Creangă”#Universității Pedagogice de Stat „Ion Creangă”#Universitateo Pedagogică de Stat „Ion Creangă”#feminin#1#Universities
+Academia de Muzică, Teatru și Arte Plastice#Academia de Muzică, Teatru și Arte Plastice#Academiei de Muzică, Teatru și Arte Plastice#Academiei de Muzică, Teatru și Arte Plastice#Academieo de Muzică, Teatru și Arte Plastice#masculin#1#Universities
+Universitatea Liberă Internațională din Moldova#Universitatea Liberă Internațională din Moldova#Universității Libere Internaționale din Moldova#Universității Libere Internaționale din Moldova#Universitateo Liberă Internațională din Moldova#feminin#1#Universities
+Universitatea de Stat din Tiraspol#Universitatea de Stat din Tiraspol#Universității de Stat din Tiraspol#Universității de Stat din Tiraspol#Universitateo de Stat din Tiraspol#masculin#1#Universities
+Universitatea de Stat „Alecu Russo” din Bălți#Universitatea de Stat „Alecu Russo” din Bălți#Universității de Stat „Alecu Russo” din Bălți#Universității de Stat „Alecu Russo” din Bălți#Universitateo de Stat „Alecu Russo” din Bălți#masculin#2#Universities
+Universitatea de Stat „Bogdan Petriceicu Hasdeu” din Cahul#Universitatea de Stat „Bogdan Petriceicu Hasdeu” din Cahul#Universității de Stat „Bogdan Petriceicu Hasdeu” din Cahul#Universității de Stat „Bogdan Petriceicu Hasdeu” din Cahul#Universitateo de Stat „Bogdan Petriceicu Hasdeu” din Cahul#feminin#3#Universities
+Universitatea de Stat din Transnistria „Taras Șevcenko”#Universitatea de Stat din Transnistria „Taras Șevcenko”#Universității de Stat din Transnistria „Taras Șevcenko”#Universității de Stat din Transnistria „Taras Șevcenko”#Universitateo de Stat din Transnistria „Taras Șevcenko”#masculin#4#Universities
+Universitatea de Stat din Comrat#Universitatea de Stat din Comrat#Universității de Stat din Comrat#Universității de Stat din Comrat#Universitateo de Stat din Comrat#feminin#5#Universities
+Spitalul Clinic Republican „Timofei Moșneaga”#Spitalul Clinic Republican „Timofei Moșneaga”#Spitalului Clinic Republican „Timofei Moșneaga”#Spitalului Clinic Republican „Timofei Moșneaga”#Spitalule Clinic Republican „Timofei Moșneaga”#masculin#1#Hospitals
+Spitalul Clinic Republican de Traumatologie și Ortopedie#Spitalul Clinic Republican de Traumatologie și Ortopedie#Spitalului Clinic Republican de Traumatologie și Ortopedie#Spitalului Clinic Republican de Traumatologie și Ortopedie#Spitalule Clinic Republican de Traumatologie și Ortopedie#masculin#1#Hospitals
+Institutul de Medicină Urgentă#Institutul de Medicină Urgentă#Institutului de Medicină Urgentă#Institutului de Medicină Urgentă#Institutule de Medicină Urgentă#masculin#1#Hospitals
+Institutul Mamei și Copilului#Institutul Mamei și Copilului#Institutului Mamei și Copilului#Institutului Mamei și Copilului#Institutule Mamei și Copilului#feminin#1#Hospitals
+Spitalul Clinic Municipal Nr. 1#Spitalul Clinic Municipal Nr. 1#Spitalului Clinic Municipal Nr. 1#Spitalului Clinic Municipal Nr. 1#Spitalule Clinic Municipal Nr. 1#masculin#1#Hospitals
+Spitalul Clinic Municipal „Sfântul Arhanghel Mihail”#Spitalul Clinic Municipal „Sfântul Arhanghel Mihail”#Spitalului Clinic Municipal „Sfântul Arhanghel Mihail”#Spitalului Clinic Municipal „Sfântul Arhanghel Mihail”#Spitalule Clinic Municipal „Sfântul Arhanghel Mihail”#masculin#1#Hospitals
+Spitalul Internațional Medpark#Spitalul Internațional Medpark#Spitalului Internațional Medpark#Spitalului Internațional Medpark#Spitalule Internațional Medpark#masculin#1#Hospitals
+Spitalul Clinic Municipal Bălți#Spitalul Clinic Municipal Bălți#Spitalului Clinic Municipal Bălți#Spitalului Clinic Municipal Bălți#Spitalule Clinic Municipal Bălți#masculin#2#Hospitals
+Spitalul Clinic de Psihiatrie Bălți#Spitalul Clinic de Psihiatrie Bălți#Spitalului Clinic de Psihiatrie Bălți#Spitalului Clinic de Psihiatrie Bălți#Spitalule Clinic de Psihiatrie Bălți#masculin#2#Hospitals
+Spitalul Raional Cahul#Spitalul Raional Cahul#Spitalului Raional Cahul#Spitalului Raional Cahul#Spitalule Raional Cahul#masculin#3#Hospitals
+Spitalul Raional Ungheni#Spitalul Raional Ungheni#Spitalului Raional Ungheni#Spitalului Raional Ungheni#Spitalule Raional Ungheni#masculin#6#Hospitals
+Spitalul Raional Soroca#Spitalul Raional Soroca#Spitalului Raional Soroca#Spitalului Raional Soroca#Spitalule Raional Soroca#masculin#7#Hospitals
+Spitalul Clinic de Psihiatrie Orhei#Spitalul Clinic de Psihiatrie Orhei#Spitalului Clinic de Psihiatrie Orhei#Spitalului Clinic de Psihiatrie Orhei#Spitalule Clinic de Psihiatrie Orhei#masculin#8#Hospitals
+Spitalul Clinic Republican Tiraspol#Spitalul Clinic Republican Tiraspol#Spitalului Clinic Republican Tiraspol#Spitalului Clinic Republican Tiraspol#Spitalule Clinic Republican Tiraspol#masculin#4#Hospitals
+Spitalul Clinic Municipal Bender#Spitalul Clinic Municipal Bender#Spitalului Clinic Municipal Bender#Spitalului Clinic Municipal Bender#Spitalule Clinic Municipal Bender#masculin#9#Hospitals
+Spitalul Raional Rîbnița#Spitalul Raional Rîbnița#Spitalului Raional Rîbnița#Spitalului Raional Rîbnița#Spitalule Raional Rîbnița#masculin#10#Hospitals
+Spitalul Raional Dubăsari#Spitalul Raional Dubăsari#Spitalului Raional Dubăsari#Spitalului Raional Dubăsari#Spitalule Raional Dubăsari#masculin#11#Hospitals
+Muzeul Național de Etnografie și Istorie Naturală#Muzeul Național de Etnografie și Istorie Naturală#Muzeului Național de Etnografie și Istorie Naturală#Muzeului Național de Etnografie și Istorie Naturală#Muzeule Național de Etnografie și Istorie Naturală#masculin#1#Museums
+Muzeul Național de Istorie a Moldovei#Muzeul Național de Istorie a Moldovei#Muzeului Național de Istorie a Moldovei#Muzeului Național de Istorie a Moldovei#Muzeule Național de Istorie a Moldovei#masculin#1#Museums
+Muzeul Național de Arte Frumoase#Muzeul Național de Arte Frumoase#Muzeului Național de Arte Frumoase#Muzeului Național de Arte Frumoase#Muzeule Național de Arte Frumoase#masculin#1#Museums
+Muzeul Memoriei Neamului#Muzeul Memoriei Neamului#Muzeului Memoriei Neamului#Muzeului Memoriei Neamului#Muzeule Memoriei Neamului#masculin#1#Museums
+Muzeul Național al Literaturii Române#Muzeul Național al Literaturii Române#Muzeului Național al Literaturii Române#Muzeului Național al Literaturii Române#Muzeule Național al Literaturii Române#masculin#1#Museums
+Cetatea Soroca#Cetatea Soroca#Cetății Soroca#Cetății Soroca#Cetateo Soroca#feminin#7#Museums
+Aeroportul Internațional Chișinău#Aeroportul Internațional Chișinău#Aeroportului Internațional Chișinău#Aeroportului Internațional Chișinău#Aeroportule Internațional Chișinău#masculin#1#Airports
+Aeroportul Internațional Bălți#Aeroportul Internațional Bălți#Aeroportului Internațional Bălți#Aeroportului Internațional Bălți#Aeroportule Internațional Bălți#masculin#2#Airports
+Aeroportul Internațional Cahul#Aeroportul Internațional Cahul#Aeroportului Internațional Cahul#Aeroportului Internațional Cahul#Aeroportule Internațional Cahul#masculin#3#Airports
+Aeroportul Tiraspol#Aeroportul Tiraspol#Aeroportului Tiraspol#Aeroportului Tiraspol#Aeroportule Tiraspol#masculin#4#Airports
+Parcul Central „Ștefan cel Mare”#Parcul Central „Ștefan cel Mare”#Parcului Central „Ștefan cel Mare”#Parcului Central „Ștefan cel Mare”#Parcule Central „Ștefan cel Mare”#masculin#1#Sights
+Catedrala Nașterea Domnului#Catedrala Nașterea Domnului#Catedralei Nașterea Domnului#Catedralei Nașterea Domnului#Catedraleo Nașterea Domnului#feminin#1#Sights
+Arcul de Triumf#Arcul de Triumf#Arcului de Triumf#Arcului de Triumf#Arcule de Triumf#masculin#1#Sights
+Parcul Valea Morilor#Parcul Valea Morilor#Parcului Valea Morilor#Parcului Valea Morilor#Parcule Valea Morilor#masculin#1#Sights
+Parcul Dendrariu#Parcul Dendrariu#Parcului Dendrariu#Parcului Dendrariu#Parcule Dendrariu#masculin#1#Sights
+Complexul Memorial Eternitate#Complexul Memorial Eternitate#Complexului Memorial Eternitate#Complexului Memorial Eternitate#Complexule Memorial Eternitate#masculin#1#Sights
+Piața Suvorov#Piața Suvorov#Pieței Suvorov#Pieței Suvorov#Piațo Suvorov#feminin#4#Sights
+Casa Sovietelor#Casa Sovietelor#Casei Sovietelor#Casei Sovietelor#Caso Sovietelor#feminin#4#Sights
+Promenada Râului Nistru#Promenada Râului Nistru#Promenadei Râului Nistru#Promenadei Râului Nistru#Promenado Râului Nistru#feminin#4#Sights
+Muzeul Național Unit Tiraspol#Muzeul Național Unit Tiraspol#Muzeului Național Unit Tiraspol#Muzeului Național Unit Tiraspol#Muzeule Național Unit Tiraspol#masculin#4#Sights
+Mănăstirea Noul Neamț#Mănăstirea Noul Neamț#Mănăstirii Noul Neamț#Mănăstirii Noul Neamț#Mănăstireo Noul Neamț#feminin#4#Sights
+Catedrala Sfinții Constantin și Elena#Catedrala Sfinții Constantin și Elena#Catedralei Sfinții Constantin și Elena#Catedralei Sfinții Constantin și Elena#Catedraleo Sfinții Constantin și Elena#feminin#2#Sights
+Teatrul Național „Vasile Alecsandri”#Teatrul Național „Vasile Alecsandri”#Teatrului Național „Vasile Alecsandri”#Teatrului Național „Vasile Alecsandri”#Teatrule Național „Vasile Alecsandri”#masculin#2#Sights
+Piața Independenței#Piața Independenței#Pieței Independenței#Pieței Independenței#Piațo Independenței#feminin#2#Sights
+Muzeul Orașului Bălți#Muzeul Orașului Bălți#Muzeului Orașului Bălți#Muzeului Orașului Bălți#Muzeule Orașului Bălți#masculin#2#Sights
+Parcul Andrieș#Parcul Andrieș#Parcului Andrieș#Parcului Andrieș#Parcule Andrieș#masculin#2#Sights
+Cetatea Bender#Cetatea Bender#Cetății Bender#Cetății Bender#Cetateo Bender#feminin#9#Sights
+Memorialul Gloriei Militare#Memorialul Gloriei Militare#Memorialului Gloriei Militare#Memorialului Gloriei Militare#Memorialule Gloriei Militare#masculin#9#Sights
+Catedrala Transfigurării#Catedrala Transfigurării#Catedralei Transfigurării#Catedralei Transfigurării#Catedraleo Transfigurării#feminin#9#Sights
+Plaja Râului Nistru#Plaja Râului Nistru#Plajei Râului Nistru#Plajei Râului Nistru#Plajo Râului Nistru#feminin#9#Sights
+Parcul Orașului Bender#Parcul Orașului Bender#Parcului Orașului Bender#Parcului Orașului Bender#Parcule Orașului Bender#masculin#9#Sights
+Parcul Victoriei#Parcul Victoriei#Parcului Victoriei#Parcului Victoriei#Parcule Victoriei#masculin#10#Sights
+Catedrala Ortodoxă Rîbnița#Catedrala Ortodoxă Rîbnița#Catedralei Ortodoxe Rîbnița#Catedralei Ortodoxe Rîbnița#Catedraleo Ortodoxe Rîbnița#feminin#10#Sights
+Monumentul Eliberatorilor#Monumentul Eliberatorilor#Monumentului Eliberatorilor#Monumentului Eliberatorilor#Monumentule Eliberatorilor#masculin#10#Sights
+Muzeul de Istorie și Etnografie Rîbnița#Muzeul de Istorie și Etnografie Rîbnița#Muzeului de Istorie și Etnografie Rîbnița#Muzeului de Istorie și Etnografie Rîbnița#Muzeule de Istorie și Etnografie Rîbnița#masculin#10#Sights
+Barajul Rîului Nistru#Barajul Rîului Nistru#Barajului Rîului Nistru#Barajului Rîului Nistru#Barajule Rîului Nistru#masculin#10#Sights
+Podul Eiffel (Podul Ungheni)#Podul Eiffel (Podul Ungheni)#Podului Eiffel (Podului Ungheni)#Podului Eiffel (Podului Ungheni)#Podule Eiffel (Podule Ungheni)#masculin#6#Sights
+Biserica Sfântul Alexandru Nevski#Biserica Sfântul Alexandru Nevski#Bisericii Sfântul Alexandru Nevski#Bisericii Sfântul Alexandru Nevski#Biserico Sfântul Alexandru Nevski#feminin#6#Sights
+Parcul Central Ungheni#Parcul Central Ungheni#Parcului Central Ungheni#Parcului Central Ungheni#Parcule Central Ungheni#masculin#6#Sights
+Casa de Cultură Ungheni#Casa de Cultură Ungheni#Casei de Cultură Ungheni#Casei de Cultură Ungheni#Caso de Cultură Ungheni#feminin#6#Sights
+Promenada Râului Prut#Promenada Râului Prut#Promenadei Râului Prut#Promenadei Râului Prut#Promenado Râului Prut#feminin#6#Sights
+Teatrul Muzical-Dramatic Cahul#Teatrul Muzical-Dramatic Cahul#Teatrului Muzical-Dramatic Cahul#Teatrului Muzical-Dramatic Cahul#Teatrule Muzical-Dramatic Cahul#masculin#3#Sights
+Piața Independenței Cahul#Piața Independenței Cahul#Pieței Independenței Cahul#Pieței Independenței Cahul#Piațo Independenței Cahul#feminin#3#Sights
+Biserica Sfântul Arhanghel Mihail#Biserica Sfântul Arhanghel Mihail#Bisericii Sfântul Arhanghel Mihail#Bisericii Sfântul Arhanghel Mihail#Biserico Sfântul Arhanghel Mihail#feminin#3#Sights
+Muzeul de Istorie Cahul#Muzeul de Istorie Cahul#Muzeului de Istorie Cahul#Muzeului de Istorie Cahul#Muzeule de Istorie Cahul#masculin#3#Sights
+Parcul Nufărul Alb#Parcul Nufărul Alb#Parcului Nufărul Alb#Parcului Nufărul Alb#Parcule Nufărul Alb#masculin#3#Sights
+Rezervorul Dubăsari#Rezervorul Dubăsari#Rezervorului Dubăsari#Rezervorului Dubăsari#Rezervorule Dubăsari#masculin#11#Sights
+Parcul Memorial al Victoriei Dubăsari#Parcul Memorial al Victoriei Dubăsari#Parcului Memorial al Victoriei Dubăsari#Parcului Memorial al Victoriei Dubăsari#Parcule Memorial al Victoriei Dubăsari#masculin#11#Sights
+Catedrala Transfigurării Dubăsari#Catedrala Transfigurării Dubăsari#Catedralei Transfigurării Dubăsari#Catedralei Transfigurării Dubăsari#Catedraleo Transfigurării Dubăsari#feminin#11#Sights
+Muzeul de Istorie Dubăsari#Muzeul de Istorie Dubăsari#Muzeului de Istorie Dubăsari#Muzeului de Istorie Dubăsari#Muzeule de Istorie Dubăsari#masculin#11#Sights
+Zona Pitorescă Râul Nistru Dubăsari#Zona Pitorescă Râul Nistru Dubăsari#Zonei Pitorescă Râul Nistru Dubăsari#Zonei Pitorescă Râul Nistru Dubăsari#Zono Pitorescă Râul Nistru Dubăsari#feminin#11#Sights
+Cetatea Soroca#Cetatea Soroca#Cetății Soroca#Cetății Soroca#Cetateo Soroca#feminin#7#Sights
+Monumentul Lumânarea Recunoștinței#Monumentul Lumânarea Recunoștinței#Monumentului Lumânarea Recunoștinței#Monumentului Lumânarea Recunoștinței#Monumentule Lumânarea Recunoștinței#masculin#7#Sights
+Dealul Țiganilor#Dealul Țiganilor#Dealului Țiganilor#Dealului Țiganilor#Dealule Țiganilor#masculin#7#Sights
+Biserica Sfinții Petru și Pavel#Biserica Sfinții Petru și Pavel#Bisericii Sfinții Petru și Pavel#Bisericii Sfinții Petru și Pavel#Biserico Sfinții Petru și Pavel#feminin#7#Sights
+Muzeul de Istorie și Etnografie Soroca#Muzeul de Istorie și Etnografie Soroca#Muzeului de Istorie și Etnografie Soroca#Muzeului de Istorie și Etnografie Soroca#Muzeule de Istorie și Etnografie Soroca#masculin#7#Sights
+Complexul Arheologic Orheiul Vechi#Complexul Arheologic Orheiul Vechi#Complexului Arheologic Orheiul Vechi#Complexului Arheologic Orheiul Vechi#Complexule Arheologic Orheiul Vechi#masculin#8#Sights
+Orhei Land#Orhei Land#Orhei Land#Orhei Land#Orhei Land#neutru#8#Sights
+Biserica Sfântul Dumitru#Biserica Sfântul Dumitru#Bisericii Sfântul Dumitru#Bisericii Sfântul Dumitru#Biserico Sfântul Dumitru#feminin#8#Sights
+Muzeul de Istorie și Etnografie Orhei#Muzeul de Istorie și Etnografie Orhei#Muzeului de Istorie și Etnografie Orhei#Muzeului de Istorie și Etnografie Orhei#Muzeule de Istorie și Etnografie Orhei#masculin#8#Sights
+Parcul Orașului Orhei#Parcul Orașului Orhei#Parcului Orașului Orhei#Parcului Orașului Orhei#Parcule Orașului Orhei#masculin#8#Sights
+Noventiq Moldova#Noventiq Moldova#Noventiq Moldova#Noventiq Moldova#Noventiq Moldova#neutru#1#Businesses
+Biroul de Traduceri Perlia#Biroul de Traduceri Perlia#Biroului de Traduceri Perlia#Biroului de Traduceri Perlia#Biroule de Traduceri Perlia#neutru#1#Businesses
+OCN Mogo Loans SRL#OCN Mogo Loans SRL#OCN Mogo Loans SRL#OCN Mogo Loans SRL#OCN Mogo Loans SRL#neutru#1#Businesses
+Hertz Moldova Rent a Car#Hertz Moldova Rent a Car#Hertz Moldova Rent a Car#Hertz Moldova Rent a Car#Hertz Moldova Rent a Car#neutru#1#Businesses
+BULR - Consultanță Financiară și Juridică#BULR - Consultanță Financiară și Juridică#BULR - Consultanței Financiară și Juridică#BULR - Consultanței Financiară și Juridică#BULR - Consultanțo Financiară și Juridică#neutru#1#Businesses
+Solar.md#Solar.md#Solar.md#Solar.md#Solar.md#neutru#1#Businesses
+Ecodom.md#Ecodom.md#Ecodom.md#Ecodom.md#Ecodom.md#neutru#1#Businesses
+Procatautonord#Procatautonord#Procatautonord#Procatautonord#Procatautonord#neutru#2#Businesses
+Chirie Auto Forsaj#Chirie Auto Forsaj#Chiriei Auto Forsaj#Chiriei Auto Forsaj#Chirio Auto Forsaj#neutru#2#Businesses
+Intermobila#Intermobila#Intermobila#Intermobila#Intermobila#neutru#2#Businesses
